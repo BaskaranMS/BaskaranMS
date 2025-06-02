@@ -1,15 +1,15 @@
 # 🌟 Baskaran M S  
-**Final Year CSE Student | MERN Stack Developer | App Developer | Freelancer**  
+**Computer Science Graduate | Application Developer | Freelancer**  
 📍 Thanjavur, India | ✉️ [official.ms.baskaran@gmail.com](mailto:official.ms.baskaran@gmail.com)  
 🔗 [Portfolio/Website](https://baskaranms.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/baskaran-m-s-1b6196256/) | [GitHub](https://github.com/BaskaranMS) | [Instagram](https://instagram.com)
 
 ---
 
 ### 👋 About Me  
-Hi there! I'm **Baskaran**, a passionate **Computer Science Engineering** student, freelance developer.  
+Hi there! I'm **Baskaran**, a passionate **Computer Science Graduate** freelance developer.  
 
 - 🌱 Currently learning **Data Science** at GUVI (IITM Research Park, Chennai).  
-- 💻 Specializing in **MERN Stack Development**, **App Development**, and **AI Solutions**.  
+- 💻 Specializing in **MERN Stack Development**, **Flutter App Development**, and **AI Solutions**.  
 - 🤝 Open to collaborating on innovative projects that make an impact.  
 - 🎯 My goal: Build intelligent, user-centric applications that solve real-world problems.  
 
