@@ -16,11 +16,12 @@ Hi there! I'm **Baskaran**, a passionate **Computer Science Graduate** freelance
 ---
 
 ### 🚀 My Skillset  
-- **Programming Languages**: Python, JavaScript, Dart (Basics) 
-- **Web Development**: HTML5, CSS3, React.js, Node.js, Express.js, Tailwind CSS, Bootstrap  
-- **App Development**: Flutter, React Native 9Basics)  
-- **Databases**: MongoDB  
-- **Tools & Platforms**: Git, Postman, VS Code, Android Studio  
+- **Programming Languages**: Python, JavaScript, Dart, TypeScript 
+- **Web Development**: HTML5, CSS3, React.js, Node.js, Express.js, Tailwind CSS, Bootstrap, Next.js, Angular, Framer Motion, GSAP, Three.js, React Three Fiber.
+- **App Development**: Flutter, React Native, Electron.js
+- **Databases**: MongoDB, PostgreSQL, Redis.
+- **Tools & Platforms**: Git, Postman, VS Code, Android Studio, Arduino IDE, RoboFlow, Blender.
+- **Other Project Experience**: Flask, FastAPI, OpenCV, Deepseek Models, YOLO, ESP32.
 
 ---
 
